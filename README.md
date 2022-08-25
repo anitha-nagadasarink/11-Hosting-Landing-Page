@@ -21,7 +21,7 @@ I took 6 hours to complete the project with responsive
 
 ### Demo :
 
-![Web Site Image]https://github.com/anitha-nagadasarink/11-Hosting-Landing-Page/blob/HTML-CSS-Projects/Assets/demo.png)
+![Web Site Image](https://github.com/anitha-nagadasarink/11-Hosting-Landing-Page/blob/HTML-CSS-Projects/Assets/demo.png)
 
 ### You can Check it Live on Below Link :
 
